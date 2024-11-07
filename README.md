@@ -16,3 +16,11 @@
     
 </div>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/nikos-karamaroudis-06676a233/">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+    
+</div>
+

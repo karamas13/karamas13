@@ -17,8 +17,14 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/nikos-karamaroudis-06676a233/">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/nikos-karamaroudis-06676a233/" >
+    <img src="https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=for-the-badge&logo=linkedin" targer="_blank"/>
+</a>
+<a href="https://nickkaramaroudisdev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20-%20%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" targer="_blank"/>
+</a>
+<a href="mailto:nickkaramas@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail%20-%20%23333?style=for-the-badge&logo=gmail" targer="_blank"/>
 </a>
 
     

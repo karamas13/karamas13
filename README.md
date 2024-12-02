@@ -10,9 +10,9 @@
 
 <div align="center">
     
- ⚙️ I'm currently working on **a finance tracking app**
+ ⚙️ I'm currently working on **learning** 
 
- 📈 I'm currenty learning **Next.js**
+ 📈 I'm currenty learning **Big O Notation, Data Structures and Algorithms**
     
 </div>
 
